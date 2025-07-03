@@ -1,0 +1,21 @@
+{
+    "healthcare": [
+        {
+            "title": "HIPAA-Compliant Data Pipelines",
+            "description": "Built secure, scalable data pipelines for healthcare analytics using modern data stack.",
+            "image": "https://agent42labs.com/wp-content/uploads/2023/08/Frame-747-3.png"
+        },
+        {
+            "title": "AI-driven Disease Predictor",
+            "description": "Designed a machine learning model to predict diseases based on patient health records.",
+            "image": "https://agent42labs.com/wp-content/uploads/2023/08/Frame-747-3.png"
+        }
+    ],
+    "agritech": [
+        {
+            "title": "Crop Health Monitoring",
+            "description": "Used computer vision to assess crop health in aerial imagery for large farms.",
+            "image": "https://agent42labs.com/wp-content/uploads/2023/08/Frame-747-3.png"
+        }
+    ]
+}
